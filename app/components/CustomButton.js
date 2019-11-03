@@ -1,6 +1,6 @@
 
-import React from 'react';
 import PropTypes from 'prop-types';
+import React from 'react';
 import {Button, View} from 'react-native';
 import button from '../styles/Button';
 

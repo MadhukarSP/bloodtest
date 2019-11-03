@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
-import { Text, View, Alert} from 'react-native';
+import React, {Component} from 'react';
+import {Alert, Text, View} from 'react-native';
 import CustomButton from '../components/CustomButton';
-import {BUTTON_NAME, HEADER} from '../utilities/Constants';
 import container from '../styles/Container';
 import text from '../styles/Text';
+import {BUTTON_NAME, HEADER} from '../utilities/Constants';
 
 export default class Dashboard extends Component {
 
